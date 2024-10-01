@@ -1,0 +1,5 @@
+/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework4/build/CMakeFiles/Homework4.dir
+/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework4/build/CMakeFiles/Homework4union.dir
+/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework4/build/CMakeFiles/Homework4revised.dir
+/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework4/build/CMakeFiles/edit_cache.dir
+/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework4/build/CMakeFiles/rebuild_cache.dir
